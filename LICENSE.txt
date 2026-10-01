@@ -1,0 +1,7 @@
+Copyright (c) 2026 Preconiq LLC. All rights reserved.
+
+This software is proprietary. No part of it may be copied, modified,
+distributed or used without written permission from the copyright holder.
+
+(This is a placeholder. Have an attorney prepare the license or
+subscription agreement you will give customers before you sell it.)
